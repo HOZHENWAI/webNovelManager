@@ -1,0 +1,12 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+
+# Ignore pytest cache
+.pytest_cache
+
+# Ignore venv
+.venv
+
+# Ignore IDE
+.idea
