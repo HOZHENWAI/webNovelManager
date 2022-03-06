@@ -1,0 +1,7 @@
+tinydb
+dynaconf
+tldextract
+structlog
+validators
+beautifulsoup4
+lxml
